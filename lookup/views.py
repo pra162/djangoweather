@@ -1,3 +1,4 @@
+# This is my views of python django
 from django.shortcuts import render
 
 def home(request):
